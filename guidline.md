@@ -5,7 +5,8 @@
 - **JavaScript**: Make sure you’re comfortable with ES6+ features such as classes, arrow functions, destructuring, spread/rest operators, and modules.
 - **HTML/CSS**: Basic knowledge is essential as you'll be working with JSX, which is similar to HTML.
 - **Try to read Book**: Every good programer and develepoers all reading different breasorces not slide but a book and documentantion
-  - **SOME LIST OF BOOK**
+  - **SOME LIST OF BOOK** [Begining react Js Fundamental building ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf&ved=2ahUKEwijodrp0tqJAxVga0EAHb4mGxAQFnoECBUQAQ&usg=AOvVaw3onLXVfMiu_hw9YDoM1O5N),
+    [React full stack](https://drive.google.com/file/d/1iBfuPL0lVUFqz7xxW9CZhLIWqEERqDWj/view?usp=sharing), [React Project ](https://drive.google.com/file/d/1566pQ2uKPrV53iNU1gNzWI5aMqB_2VP2/view?usp=sharing)
 
 ### Learning Timeline
 
